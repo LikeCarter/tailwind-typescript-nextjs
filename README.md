@@ -1,6 +1,12 @@
 
 # Tailwind x TypeScript x Next.js 🔥
 
+## Screenshot
+
+<p align="center">
+  <img src="https://github.com/LikeCarter/tailwind-typescript-nextjs/raw/main/screenshot.png" alt="Tailwind x TypeScript x Next.jst">
+</p>
+
 ## 🚀 Getting started
 
 Clone this repository and run the following commands inside the project folder:
