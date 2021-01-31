@@ -14,7 +14,7 @@ To view the project: `http://localhost:3000`.
 
 1. Fork this repository;
 2. Create a branch: `git checkout -b my-new-feature`;
-3. Commit your changes: `git commit -m 'New feature'`;
+3. Commit your changes: `git commit -m ' feature'`;
 4. Push to the same branch: `git push origin my-new-feature`.
 
 ## 📝 License
@@ -23,4 +23,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Made with ♥ in Canada
+Made in Canada = ♥
